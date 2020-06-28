@@ -1,0 +1,134 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+a:link{
+    color: white;
+    font-size: 1em;
+    }
+a:visited{
+    color: rgb(250, 250, 250);
+    font-size: 1em;
+    }
+a:hover{
+    color: #060875;
+    font-size: 1em;
+    }
+a:active{
+color: rgb(255, 0, 255);
+font-size: 1em;
+}
+
+#Contenedor{
+    width: 1250px;
+    height: 1000px;
+    margin: 0.5em auto;
+    padding: 0.5en auto;
+    border-radius: 1em;
+}
+
+#Cabecera{
+    height: 6%;
+    background:linear-gradient(pink);
+    opacity: 0.7;
+    border-radius: 0.5em;    
+}
+
+#Columnas{
+    height: 60%;
+    margin: 2em;
+}
+
+#pie{
+    height: 25%;
+    background-color: #a81f96;
+    border-radius: 1em;
+    margin: 2em;
+}
+
+#menu{
+    height: 100%;
+    width: 20%;
+    background: linear-gradient(black);
+    opacity: 0.7;
+    border-radius: 1em;
+    float: left;
+}
+
+#Contenido{
+    height: 100%;
+    width: 79%;
+    background: linear-gradient(black);
+    opacity: 0.7;
+    border-radius: 1em;
+    float: right;
+}
+
+.links{
+    height: 35%;
+    width: 96.5%;
+    background-color: yellow;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+body {
+    background-image: url(luffy.gif);
+    
+}
+
+h1 {
+    color: white;
+    font: oblique bold 300% cursive;
+}
+
+img {
+    border-radius: 1em;
+    width: 40%;
+    height: 35%;
+    float: left;
+    margin: 1em;
+}
+
+video {
+    border-radius: 1em; 
+    float: right;
+}
+ 
+.face{
+    width: 30%;
+    height: 70%;
+    float: right
+}
+
+.insta{
+    width: 30%;
+    height: 70%;
+    float: right;
+    margin: 1em;
+}
+
+.twi {
+    width: 30%;
+    height: 70%;
+    float: right;
+    margin: 1em;
+}
+
+p{
+    font: oblique bold 90% cursive;
+}
+
+ul {
+    font: oblique bold 100% cursive;
+}
+
+
+
+h3 {
+    font: oblique bold 300% cursive;
+}
+
+.que {
+    font: oblique bold 200% cursive;
